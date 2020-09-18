@@ -35,3 +35,4 @@ So I came up with the idea of creating a notes program that you could open up, w
    - Light mode
    - Custom Saving & Loading
    - Drag n Drop loading
+   - Localization (?)
