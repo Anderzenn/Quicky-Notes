@@ -10,7 +10,7 @@ So I came up with the idea of creating a notes program that you could open up, w
  - Completely rewrote program in Electron
  - Added Autosave (Localstorage)
  - Added Local Saving (Localstorage)
- - Added Cross-platform support. (Currently Mac OSX & Windows)
+ - Added Cross-platform support. (Currently Mac OSX & Windows only)
  - Added splash screen
  - Added character count
  - Added word count
@@ -36,3 +36,4 @@ So I came up with the idea of creating a notes program that you could open up, w
    - Custom Saving & Loading
    - Drag n Drop loading
    - Localization (?)
+   - Linux Build, maybe.
