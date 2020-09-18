@@ -27,6 +27,7 @@ So I came up with the idea of creating a notes program that you could open up, w
   - Tooltip sometimes flashes when hovering over counters
   - Closing the application to the dock on Mac and opening it again causes it to completely relaunch
   - If two headers or subheaders exist with the exact same name, the text will go to the first result
+  - Some features currently only work if an internet connection is available, due to use of CDNs. (Will be fixed in a future release)
   
   ## TODO
    - Fix known issues
