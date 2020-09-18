@@ -1,3 +1,10 @@
+# Quicky Notes
+Quicky Notes is a simple, quick and easy to use program for writing down notes.
+The project was started back in mid 2018 by me (Mads Rosengren Andersen), and was made using Electron, but actually started out in Visual Studio as a WPF app.
+Quicky Notes was started because I felt like the regular text editor was just not pleasing to look at and I wanted something that was still simple, yet useful. 
+So I came up with the idea of creating a notes program that you could open up, write something in, and then just close down and when opened again everything would be right where you left it. During the early days of Quicky Notes, it was known as "qNotes" and it worked. You could open and save text files, and it was simple and clean. However, I felt limited by WPF, and wanted the program to be available on both Mac and Windows. So I decided to switch to Electron after a lot of thinking. Electron was both new and familiar. So mid 2019, Quicky Notes was born and in 2020 the first version to the public was released, version 0.2.1.
+
+
 # Quicky Notes Changelog (v.0.2.1)
  - Changed name from qNotes to Quicky Notes
  - Completely rewrote program in Electron
@@ -26,3 +33,5 @@
    - Make Discord Rich Presence togglable
    - Settings
    - Light mode
+   - Custom Saving & Loading
+   - Drag n Drop loading
