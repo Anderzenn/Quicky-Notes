@@ -1,3 +1,5 @@
+# Source Code will be added Soon:tm:
+
 # Quicky Notes
 Quicky Notes is a simple, quick and easy to use program for writing down notes.
 The project was started back in mid 2018 by me (Mads Rosengren Andersen), and was made using Electron, but actually started out in Visual Studio as a WPF app.
